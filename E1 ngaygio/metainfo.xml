@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="F47F125B-042C-437E-A504-29149F9FE83F" version="0">
+	<info>
+		<title>E1 ngày giờ</title>
+		<description/>
+	</info>
+	<files index="id33" thumbnail="id28" totalSize="6440481">
+		<file id="id0">data/audios/snd-864a-7e59-a099-fd67.mp3</file>
+		<file id="id1">data/audios/snd-92ad-5be5-e9d0-549f.mp3</file>
+		<file id="id2">data/audios/snd-9823-9295-85ac-b2ae.mp3</file>
+		<file id="id3">data/browsersupport.js</file>
+		<file id="id4">data/fonts/fnt0.woff</file>
+		<file id="id5">data/fonts/fnt1.woff</file>
+		<file id="id6">data/fonts/fnt2.woff</file>
+		<file id="id7">data/fonts/fnt3.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/028c-f41a-59c8-bac7.png</file>
+		<file id="id11">data/images/1a25-ff40-72c3-c1de.png</file>
+		<file id="id12">data/images/66b9-2049-f604-00e5.png</file>
+		<file id="id13">data/images/af08-bcf2-5676-f57c.png</file>
+		<file id="id14">data/images/cc31-c02f-d88c-a837.png</file>
+		<file id="id15">data/images/dfd0-9046-a916-3324.png</file>
+		<file id="id16">data/images/img-496a-f2e2-7733-a287.jpg</file>
+		<file id="id17">data/images/img-4ef5-20df-1b3e-033a.jpg</file>
+		<file id="id18">data/images/img-70ea-dab5-fb8e-da1f.jpg</file>
+		<file id="id19">data/images/img-a1be-e40b-a39b-0d57.jpg</file>
+		<file id="id20">data/images/img-a9b2-03ad-7fe2-4f0c.jpg</file>
+		<file id="id21">data/images/img-b774-a53b-ec89-4447.jpg</file>
+		<file id="id22">data/images/img-d5c7-4dbe-6955-51b9.jpg</file>
+		<file id="id23">data/images/img-e753-42b2-e1f2-9709.jpg</file>
+		<file id="id24">data/images/img-ef38-dc34-fcdd-ae6f.jpg</file>
+		<file id="id25">data/images/img-f122-377c-7f88-b551.jpg</file>
+		<file id="id26">data/ismplayer/app_store2x.png</file>
+		<file id="id27">data/ismplayer/play.svg</file>
+		<file id="id28">data/ismplayer/preview.png</file>
+		<file id="id29">data/ismplayer/style.css</file>
+		<file id="id30">data/ismplayer/style_mini.css</file>
+		<file id="id31">data/lms.js</file>
+		<file id="id32">data/player.js</file>
+		<file id="id33">index.html</file>
+		<file id="id34">ismplayer.html</file>
+		<file id="id35">preview.png</file>
+	</files>
+</presentation>
+
