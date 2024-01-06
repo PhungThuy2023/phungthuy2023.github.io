@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="7EC4A226-318D-46EE-B2BC-63A00AFB6FB5" version="0">
+	<info>
+		<title>đồ vật + màu sắc</title>
+		<description/>
+	</info>
+	<files index="id35" thumbnail="id30" totalSize="7508121">
+		<file id="id0">data/audios/snd-7059-7707-0f09-cdd5.mp3</file>
+		<file id="id1">data/audios/snd-c6f3-070f-27b5-3605.mp3</file>
+		<file id="id2">data/browsersupport.js</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/html5.png</file>
+		<file id="id12">data/images/030b-cf5a-69cc-1371.png</file>
+		<file id="id13">data/images/14f0-6ef5-da1b-b988.png</file>
+		<file id="id14">data/images/1af1-eeea-69d4-995a.png</file>
+		<file id="id15">data/images/2114-5be6-784d-63e7.png</file>
+		<file id="id16">data/images/2cec-ed5d-e760-2ed7.png</file>
+		<file id="id17">data/images/2d0f-1fb5-022a-7b79.png</file>
+		<file id="id18">data/images/7c58-f2f8-8974-2933.png</file>
+		<file id="id19">data/images/84ac-5194-2d01-1068.png</file>
+		<file id="id20">data/images/8894-1ea8-633b-1e3e.png</file>
+		<file id="id21">data/images/a3a3-d306-8f70-2f07.png</file>
+		<file id="id22">data/images/c9d8-bd71-8c6d-fc74.png</file>
+		<file id="id23">data/images/d6cc-8be0-9e04-346c.png</file>
+		<file id="id24">data/images/e8a3-62b0-4bcb-045a.png</file>
+		<file id="id25">data/images/img-7ec4-bfe7-9cb8-aed8.jpg</file>
+		<file id="id26">data/images/img-b852-9572-b496-7826.gif</file>
+		<file id="id27">data/images/img-f433-668e-b893-9e94.jpg</file>
+		<file id="id28">data/ismplayer/app_store2x.png</file>
+		<file id="id29">data/ismplayer/play.svg</file>
+		<file id="id30">data/ismplayer/preview.png</file>
+		<file id="id31">data/ismplayer/style.css</file>
+		<file id="id32">data/ismplayer/style_mini.css</file>
+		<file id="id33">data/lms.js</file>
+		<file id="id34">data/player.js</file>
+		<file id="id35">index.html</file>
+		<file id="id36">ismplayer.html</file>
+		<file id="id37">preview.png</file>
+	</files>
+</presentation>
+
