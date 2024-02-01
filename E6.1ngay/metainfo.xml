@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="FD1F21A5-4049-48BA-B321-5BB5DEE542AF" version="0">
+	<info>
+		<title>Buổi 55. BT online 我的一天</title>
+		<description/>
+	</info>
+	<files index="id45" thumbnail="id40" totalSize="11183645">
+		<file id="id0">data/audios/snd-2bf8-617e-6b34-b5cd.mp3</file>
+		<file id="id1">data/audios/snd-a7af-4525-40c9-53e2.mp3</file>
+		<file id="id2">data/browsersupport.js</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/22a0-a9a1-6c8c-dbaf.png</file>
+		<file id="id11">data/images/3705-be61-f5a9-0afe.png</file>
+		<file id="id12">data/images/509e-878f-3ad9-6f03.png</file>
+		<file id="id13">data/images/55ab-2264-4efd-cd52.png</file>
+		<file id="id14">data/images/990f-7bcf-7b10-7501.png</file>
+		<file id="id15">data/images/9de3-a326-8783-981b.png</file>
+		<file id="id16">data/images/9f18-d75c-ef03-d828.png</file>
+		<file id="id17">data/images/e6f7-b392-0056-8d24.png</file>
+		<file id="id18">data/images/ee05-46d9-e12e-03c5.png</file>
+		<file id="id19">data/images/fa2b-c42c-e693-5b97.png</file>
+		<file id="id20">data/images/img-0223-17f2-5932-a20e.jpg</file>
+		<file id="id21">data/images/img-0844-87a9-7781-f1a6.jpg</file>
+		<file id="id22">data/images/img-1aaa-d1b4-6ba6-daa5.jpg</file>
+		<file id="id23">data/images/img-1f72-84fb-914d-8725.jpg</file>
+		<file id="id24">data/images/img-3c31-a9df-8a2e-5fc1.jpg</file>
+		<file id="id25">data/images/img-3d93-f8a6-f6a9-1d9b.gif</file>
+		<file id="id26">data/images/img-4840-9744-3cbe-395f.jpg</file>
+		<file id="id27">data/images/img-565a-6486-7bcf-3076.jpg</file>
+		<file id="id28">data/images/img-59e8-8201-b42d-5c58.jpg</file>
+		<file id="id29">data/images/img-5d7b-fb6b-7b35-3e94.jpg</file>
+		<file id="id30">data/images/img-7170-1f44-1ff7-a003.jpg</file>
+		<file id="id31">data/images/img-906e-8c57-dec0-5a16.jpg</file>
+		<file id="id32">data/images/img-9958-3f74-3f1b-e404.jpg</file>
+		<file id="id33">data/images/img-ac90-139b-5ff8-4640.jpg</file>
+		<file id="id34">data/images/img-b36a-bf4d-3fa6-d3fa.jpg</file>
+		<file id="id35">data/images/img-baae-eaf8-066b-ce94.jpg</file>
+		<file id="id36">data/images/img-e8c2-ca70-5a09-0399.jpg</file>
+		<file id="id37">data/images/img-ef0f-42e3-2c3a-25f1.jpg</file>
+		<file id="id38">data/ismplayer/app_store2x.png</file>
+		<file id="id39">data/ismplayer/play.svg</file>
+		<file id="id40">data/ismplayer/preview.png</file>
+		<file id="id41">data/ismplayer/style.css</file>
+		<file id="id42">data/ismplayer/style_mini.css</file>
+		<file id="id43">data/lms.js</file>
+		<file id="id44">data/player.js</file>
+		<file id="id45">index.html</file>
+		<file id="id46">ismplayer.html</file>
+		<file id="id47">preview.png</file>
+	</files>
+</presentation>
+
