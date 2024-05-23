@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<presentation guid="6A9D164E-4510-4109-AFA0-2EA00A47032C" version="0" availableOffline="1">
+	<info>
+		<title>Buổi 2. Đọc mẫu bài thơ nimen hao</title>
+		<description/>
+	</info>
+	<files index="id6" thumbnail="id36" totalSize="2602489">
+		<file id="id4">lms.js</file>
+		<file id="id6">index.html</file>
+		<file id="id7">data/thmb1.png</file>
+		<file id="id8">data/slide1.js</file>
+		<file id="id9">data/slide1.css</file>
+		<file id="id10">data/thmb2.png</file>
+		<file id="id11">data/slide2.js</file>
+		<file id="id12">data/slide2.css</file>
+		<file id="id13">data/thmb3.png</file>
+		<file id="id14">data/slide3.js</file>
+		<file id="id15">data/slide3.css</file>
+		<file id="id16">data/sound1.mp3</file>
+		<file id="id17">data/sound2.mp3</file>
+		<file id="id18">data/sound3.mp3</file>
+		<file id="id19">data/player.js</file>
+		<file id="id24">data/browsersupport.js</file>
+		<file id="id25">data/apple-touch-icon.png</file>
+		<file id="id26">data/favicon.ico</file>
+		<file id="id27">data/fnt0.woff</file>
+		<file id="id28">data/fnt1.woff</file>
+		<file id="id29">data/fnt2.woff</file>
+		<file id="id30">data/fnt3.woff</file>
+		<file id="id31">data/fnt4.woff</file>
+		<file id="id32">data/html5-unsupported.html</file>
+		<file id="id33">data/html5.png</file>
+		<file id="id34">data/img0.png</file>
+		<file id="id35">data/photo1.png</file>
+		<file id="id36">data/ismplayer/preview.png</file>
+		<file id="id37">data/ismplayer/play.svg</file>
+		<file id="id38">data/ismplayer/style.css</file>
+		<file id="id39">data/ismplayer/style_mini.css</file>
+		<file id="id40">ismplayer.html</file>
+		<file id="id41">data/ismplayer/app_store2x.png</file>
+		<file id="id42">metainfo.xml</file>
+	</files>
+</presentation>
