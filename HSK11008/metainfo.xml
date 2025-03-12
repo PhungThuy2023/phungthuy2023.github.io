@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<presentation guid="6CA0810E-DABC-466C-AD69-8D96F2C53CE9" version="0" availableOffline="1">
+	<info>
+		<title>HSK11008</title>
+		<description/>
+	</info>
+	<files index="id6" thumbnail="id51" totalSize="6367291">
+		<file id="id4">lms.js</file>
+		<file id="id6">index.html</file>
+		<file id="id7">data/thmb1.png</file>
+		<file id="id8">data/slide1.js</file>
+		<file id="id9">data/slide1.css</file>
+		<file id="id10">data/thmb2.png</file>
+		<file id="id11">data/quiz1.js</file>
+		<file id="id12">data/quiz1/audios/snd-369b-eccc-04df-6d86.mp3</file>
+		<file id="id13">data/quiz1/audios/snd-5a99-5a1c-8ff4-f9d4.mp3</file>
+		<file id="id14">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id15">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id16">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id17">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id18">data/quiz1/fonts/fnt4.woff</file>
+		<file id="id19">data/quiz1/images/0f13-ea18-a6f7-e32c.png</file>
+		<file id="id20">data/quiz1/images/1d1d-0f58-e699-c611.png</file>
+		<file id="id21">data/quiz1/images/9adc-6605-eddf-e03a.png</file>
+		<file id="id22">data/quiz1/images/9c21-cb60-026f-db77.png</file>
+		<file id="id23">data/quiz1/images/c08f-20ba-4b4c-9564.png</file>
+		<file id="id24">data/quiz1/images/img-7961-e294-7063-2757.gif</file>
+		<file id="id25">data/quiz1/images/img-798d-6566-01c8-2abe.jpg</file>
+		<file id="id26">data/quiz1/images/img-98fc-26bd-c48b-3981.jpg</file>
+		<file id="id27">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id28">data/quizplayer.js</file>
+		<file id="id29">data/player.js</file>
+		<file id="id34">data/browsersupport.js</file>
+		<file id="id35">data/apple-touch-icon.png</file>
+		<file id="id36">data/favicon.ico</file>
+		<file id="id37">data/fnt0.woff</file>
+		<file id="id38">data/fnt1.woff</file>
+		<file id="id39">data/fnt2.woff</file>
+		<file id="id40">data/fnt3.woff</file>
+		<file id="id41">data/fnt4.woff</file>
+		<file id="id42">data/fnt5.woff</file>
+		<file id="id43">data/html5-unsupported.html</file>
+		<file id="id44">data/html5.png</file>
+		<file id="id45">data/img0.png</file>
+		<file id="id46">data/img1.png</file>
+		<file id="id47">data/img2.png</file>
+		<file id="id48">data/img3.png</file>
+		<file id="id49">data/img4.png</file>
+		<file id="id50">data/photo1.png</file>
+		<file id="id51">data/ismplayer/preview.png</file>
+		<file id="id52">data/ismplayer/play.svg</file>
+		<file id="id53">data/ismplayer/style.css</file>
+		<file id="id54">data/ismplayer/style_mini.css</file>
+		<file id="id55">ismplayer.html</file>
+		<file id="id56">data/ismplayer/app_store2x.png</file>
+		<file id="id57">metainfo.xml</file>
+	</files>
+</presentation>
